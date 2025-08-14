@@ -78,7 +78,40 @@ It covers **dynamic stock selection, portfolio optimization, advanced risk metri
 
 ## ⚙️ Installation
 ```bash
-git clone https://github.com/RohithSuryaM/Stock-Portfolio-Optimization-Project.git
-cd Stock-Portfolio-Optimization-Project
+git clone https://github.com/YOUR_USERNAME/stock-portfolio-optimization.git
+cd stock-portfolio-optimization
 pip install -r requirements.txt
 jupyter notebook "Stock Portfolio Optimization using Dynamic stock selection.ipynb"
+📊 Example Outputs
+Efficient Frontier Plot
+
+Optimal Portfolio Allocation
+
+VaR & CVaR Comparison Chart
+
+CAPM Regression Scatter Plot
+
+Rolling Sharpe & Sortino Ratios
+
+Market Regime Heatmap
+
+🛠️ Technologies Used
+Python 3.x
+
+pandas, numpy, matplotlib, seaborn
+
+yfinance
+
+statsmodels
+
+scikit-learn
+
+scipy
+
+📜 License
+MIT License
+
+✨ Author
+Your Name
+
+GitHub: @RohithSuryaM
