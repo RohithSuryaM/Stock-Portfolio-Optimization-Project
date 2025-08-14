@@ -78,7 +78,7 @@ It covers **dynamic stock selection, portfolio optimization, advanced risk metri
 
 ## ⚙️ Installation
 ```bash
-git clone https://github.com/YOUR_USERNAME/stock-portfolio-optimization.git
-cd stock-portfolio-optimization
+git clone https://github.com/RohithSuryaM/Stock-Portfolio-Optimization-Project.git
+cd Stock-Portfolio-Optimization-Project
 pip install -r requirements.txt
 jupyter notebook "Stock Portfolio Optimization using Dynamic stock selection.ipynb"
