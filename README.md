@@ -112,6 +112,6 @@ scipy
 MIT License
 
 ✨ Author
-Your Name
+Rohith Surya M
 
 GitHub: @RohithSuryaM
